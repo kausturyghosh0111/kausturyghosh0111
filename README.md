@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Certificate Management System using PHP & MySQL**
 
-- 🌱 I’m currently learning **Web 🌐 and Cloud ☁ Development.**
+- 🌱 I’m currently learning **Web Development 🌐.**
 
 - 👨‍💻 All of my creativities and projects are available at [https://62e2d92471030.site123.me/](https://62e2d92471030.site123.me/)
 
