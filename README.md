@@ -1,4 +1,5 @@
 <h1 align="center">Hello Everyone...👋 I'm Kaustury Ghosh.</h1>
+
 <h3 align="center">A passionate Web developer from India. Soon will be Graduating with Bachelors in Computer Application (2023). Eager to learn new technologies & methodologies. Looking for more opportunity to apply interpersonal and technical skill for self and organization development.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
